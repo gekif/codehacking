@@ -153,6 +153,8 @@ return [
         UniSharp\LaravelFilemanager\LaravelFilemanagerServiceProvider::class,
         Intervention\Image\ImageServiceProvider::class,
 
+        Illuminate\Notifications\NotificationServiceProvider::class,
+
 
 
         /*
